@@ -1,6 +1,6 @@
 {
   "name": "beau-jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JWT Plugin for Beau",
   "main": "index.js",
   "scripts": {
